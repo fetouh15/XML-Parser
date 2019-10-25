@@ -1,0 +1,14 @@
+<?xml version="1.0"?><F xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:noNamespaceSchemaLocation="F.xsd">
+	<Person>
+		<NAME>KIMOING</NAME>
+	</Person>
+	<Person>
+		<NAME>TATO</NAME>
+	</Person>
+	<Person>
+		<NAME>MEGWAN</NAME>
+	</Person>
+	<Person>
+		<NAME>FETOUH</NAME>
+	</Person>
+</F>
